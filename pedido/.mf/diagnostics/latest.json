@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"npx tsc --project C:\\\\projetos\\\\EBAC\\\\REACT\\\\JS_vanila\\\\micro-frontend\\\\pedido\\\\node_modules\\\\.federation\\\\tsconfig.bd365dc9ec35998554b35fd76b3c250f.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "npx tsc --project C:\\projetos\\EBAC\\REACT\\JS_vanila\\micro-frontend\\pedido\\node_modules\\.federation\\tsconfig.bd365dc9ec35998554b35fd76b3c250f.json"
+    },
+    "timestamp": 1783541681152
+  }
+}
