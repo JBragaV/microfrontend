@@ -8,7 +8,7 @@ O sistema é composto por três aplicações independentes que se comunicam atra
 
 # Tecnologias Utilizadas
 
-- React 19
+- React ^18
 - TypeScript
 - Vite
 - Module Federation (@module-federation/vite)
